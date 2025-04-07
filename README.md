@@ -12,9 +12,9 @@ This project is built using **ReactJS** and follows the design and functionality
 
 ## Deadline:
 
-    📅 Deadline For 60 marks: 10th April, 2025 ( 11:59 pm ⏱️)
+    📅 Deadline For 60 marks: 11th April, 2025 ( 11:59 pm ⏱️)
 
-    📅 Deadline For 50 marks: 11th April, 2025 ( 11:59 pm ⏱️)
+    📅 No Deadline For 50 marks
 
     📅 Deadline For 30 marks: Any time after 11th April, 2025
 
