@@ -91,6 +91,7 @@ This project is built using **ReactJS** and follows the design and functionality
 - Clicking on ❤️ will:
   - Change cursor to `not-allowed`
   - Disable the button
+  - color it as red
 
 ### ❌ Remove from Favorites 
 - Clicking ❌ will:
